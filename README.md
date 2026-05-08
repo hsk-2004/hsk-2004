@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Full Stack Engineer and DevOps-focused developer passionate about building scalable web applications, cloud-native systems, and production-ready digital experiences. I enjoy transforming ideas into high-performance products using modern frontend frameworks, backend architectures, databases, and deployment pipelines.<br><br>I work across the complete development lifecycle — from designing responsive user interfaces and building secure APIs to containerization, CI/CD automation, and cloud deployment. My experience includes developing real-world platforms using React.js, Next.js, Node.js, PostgreSQL, Prisma ORM, Docker, AWS EC2, and Azure.
 
 
